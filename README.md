@@ -1,6 +1,5 @@
 # EX No.4.2. CUT SECTION OF SOLIDS
-## DATE: 04-04-2023
-
+## DATE:
 ## AIM: 
 To create the solid model from given drawing and section the solid model
 
@@ -15,33 +14,35 @@ To create the solid model from given drawing and section the solid model
 2.	Select the plane for sketching. 
 3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch.
 
-![image](https://user-images.githubusercontent.com/113594316/198826239-a3d6ffd5-d409-46b0-ba88-3312e89e9834.png)
+<img height=20% width=30% src="https://user-images.githubusercontent.com/113594316/198826239-a3d6ffd5-d409-46b0-ba88-3312e89e9834.png">
 
 4.	Use sketch modifying features (cut, trim, mirror, move, etc.,) to edit the sketch.
 
-![image](https://user-images.githubusercontent.com/113594316/198826244-f377f387-16af-4f89-a57d-1808083ce178.png)
+<img height=20% width=30% src="https://user-images.githubusercontent.com/113594316/198826244-f377f387-16af-4f89-a57d-1808083ce178.png">
 
 5.	Use inspect feature to measure the dimensions of sketch.
 
-![image](https://user-images.githubusercontent.com/113594316/198826250-0e2f4985-18d7-4a07-8b1e-9c9fab11ea41.png)
+<img height=20% width=30% src="https://user-images.githubusercontent.com/113594316/198826250-0e2f4985-18d7-4a07-8b1e-9c9fab11ea41.png">
 
 6.	After finishing the sketch use finish sketch option to finalize the sketch.
 
-![image](https://user-images.githubusercontent.com/113594316/198826257-ccfcfd0c-040a-459e-bb9f-93c375f9177f.png)
+<img height=20% width=30% src="https://user-images.githubusercontent.com/113594316/198826257-ccfcfd0c-040a-459e-bb9f-93c375f9177f.png">
 
 7.Use extrude option to convert 3D model from sketch
 
-![image](https://user-images.githubusercontent.com/113594316/198826270-d55912b8-0a02-4b36-acb2-02e9b4b328fd.png)
+<img height=20% width=30% src="https://user-images.githubusercontent.com/113594316/198826270-d55912b8-0a02-4b36-acb2-02e9b4b328fd.png">
 
 8.Use revolve option to convert 2D to 3D.
 
-![image](https://user-images.githubusercontent.com/113594316/198826282-7a4844a8-0cb2-4573-8940-9a60356b7d04.png)
+<img height=20% width=30% src="https://user-images.githubusercontent.com/113594316/198826282-7a4844a8-0cb2-4573-8940-9a60356b7d04.png">
 
 ## INPUT:
-![image](https://user-images.githubusercontent.com/113594316/199409656-c021c100-857a-4ae4-9752-9ae59465c9c2.png)
+
+<img height=40% width=50% src="https://user-images.githubusercontent.com/113594316/199409656-c021c100-857a-4ae4-9752-9ae59465c9c2.png">
 
 ## OUTPUT:
-![Ex4 2_page-0001](https://user-images.githubusercontent.com/119559976/229989705-c4c5dd6d-9532-465b-b8cc-7eaccfaf1d0f.jpg)
+
+<img height=80% width=90% src="https://user-images.githubusercontent.com/119559976/229989705-c4c5dd6d-9532-465b-b8cc-7eaccfaf1d0f.jpg">
 
 ## RESULT:
 Thus, the cut section for solid model is created.
